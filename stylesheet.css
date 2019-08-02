@@ -13,6 +13,10 @@ a{
   font-weight: bold;
 }
 
+a:hover {
+  color: #c3d7df;
+  }
+
 nav ul li{
   color: #1d1d1d;
   cursor: pointer;
